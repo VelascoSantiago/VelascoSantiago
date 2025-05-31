@@ -29,6 +29,13 @@ I have hands-on experience in:
 
 ---
 
+## 📄 Resume
+
+- [English Resume (PDF)](SantiagoVelascoResume(ENG).pdf)
+- [Spanish Resume (PDF)](SantiagoVelascoResume(ESP).pdf)
+
+---
+
 ## 📁 Repo Naming Convention
 
 To keep things organized:
