@@ -33,7 +33,7 @@ I have hands-on experience in:
 
 To keep things organized:
 
-- `cp-`: **College Projects** – assignments, coursework, and academic exercises  
+- `ap-`: **Academic Projects** – assignments, coursework, and academic exercises  
 - `pp-`: **Personal Projects** – self-driven work, experimentation, and explorations  
 
 ---
