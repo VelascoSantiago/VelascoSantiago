@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Student @ UNAM**  
 📍 Mexico City, Mexico  
-📫 santiagovg2023@gmail.com | [LinkedIn](https://linkedin.com/in/santiago-vg)  
+📫 santiagovg2023@gmail.com | [LinkedIn](https://linkedin.com/in/santiago-vg) | [Kaggle](https://www.kaggle.com/VelascoSantiago)
 
 ---
 
