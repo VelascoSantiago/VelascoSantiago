@@ -45,15 +45,15 @@ To keep things organized:
 
 ---
 
-## 🚀 Looking for Opportunities
+## 🍊 Currently at DiDi
 
-I'm currently seeking an **internship** or student opportunity where I can:
+I’m currently working at **DiDi Food**, where I:
+Automate workflows and integrate internal systems
+Document and improve key operational processes
+Test new developments and optimize SQL queries
+Work with APIs to connect the CRM and automate core internal processes
 
-- Apply my knowledge to real-world systems
-- Grow as a data engineer or analyst
-- Contribute to meaningful projects with impact
-
-If you're working on something interesting or have feedback on my work, feel free to connect!
+This role has helped me strengthen my technical and analytical skills while learning how large-scale systems operate in real business environments.
 
 ---
 
