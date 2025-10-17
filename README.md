@@ -48,13 +48,20 @@ To keep things organized:
 ## 🍊 Currently at DiDi
 
 I’m currently working at **DiDi Food**, where I:
-Automate workflows and integrate internal systems
-Document and improve key operational processes
-Test new developments and optimize SQL queries
-Work with APIs to connect the CRM and automate core internal processes
 
-This role has helped me strengthen my technical and analytical skills while learning how large-scale systems operate in real business environments.
+- Automate workflows and integrate internal systems using tools like Python, Pandas, SQL, Google APIs, and Colab to streamline and connect data-driven processes.
+- Document and improve key operational processes to both maintain a stable workflow in a highly dynamic market and simplify operational work, enabling me to pursue new goals and internal projects.
+- Test new developments and optimize SQL queries for massive datasets, turning complex analyses into valuable insights that are often hard to uncover.
+
+This role has strengthened my technical and analytical foundation, while giving me hands-on experience in how large-scale systems evolve and operate in real business environments.
 
 ---
+
+## 🤝 Let's stay in touch!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-vg)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/VelascoSantiago)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagovg2023@gmail.com)
+
 
 Thanks for stopping by 🙌
