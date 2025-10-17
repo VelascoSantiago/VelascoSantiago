@@ -12,7 +12,7 @@ Aspiring data professional and current Computer Engineering student at **UNAM (7
 
 I’m particularly interested in **data science**, **SQL/databases**, and the **human-technical interaction** that comes from building and supporting real systems.
 
-I enjoy solving problems, working collaboratively, and continuously learning new tools and methods to improve performance and clarity in data-driven projects.
+I enjoy solving problems, working collaboratively, and constantly seeking improvement in everything I do, which allows me to pursue new professional and personal goals.
 
 ---
 
@@ -20,12 +20,23 @@ I enjoy solving problems, working collaboratively, and continuously learning new
 
 I have hands-on experience in:
 
-- 📊 **Data analysis & visualization** using Python (Pandas, Matplotlib, Seaborn)
-- 🗃️ **SQL & relational databases**, including ER modeling, views, triggers, and stored procedures
-- 🎧 **APIs & data integration** (e.g., Spotify API to analyze music popularity)
-- 📈 **Statistical testing & correlation analysis** with real datasets
-- 🧰 **Infrastructure support & automation scripting** (IT internship)
-- 🧪 **Version control & collaboration** with Git/GitHub
+- 📊 Data Analysis & Visualization: Using Python (Pandas, Matplotlib, Seaborn) to clean, process, and extract insights from data.
+- 🗃️ SQL & Relational Databases: Designing and managing databases with ER modeling, views, triggers, and stored procedures. Experienced in query optimization for massive datasets.
+- 🌐 APIs & Data Integration: Leveraging REST APIs to automate processes and integrate systems, including hands-on experience with Google APIs.
+- 📈 Statistical Testing & Correlation Analysis: Applying statistical methods to validate hypotheses and uncover insights from real-world datasets.
+- 📝 Product & Project Coordination: Authoring Business Requirement Documents (BRDs), managing feature requests, and bridging the gap between operational needs and product development.
+- 💼 Cross-Functional Collaboration: Thriving in dynamic, fast-paced environments by collaborating with diverse stakeholders (Product, Ops, Marketing) and providing technical support across multiple teams.
+- 🧪 Version Control & Collaboration: Proficient in using Git and GitHub for code management and team collaboration.
+- 🎵 Signal Analysis & Processing: Analyzing and manipulating signals using MATLAB and Python libraries such as Spotipy to develop music-related projects and explore the intersection between data and sound.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align='center'>
+  <img src="https://skillicons.dev/icons?i=py,c,sqlite,html,git,github,matlab,anaconda,vscode,visualstudio,discord,flask,linux" /><br>
+  <img src="https://skillicons.dev/icons?i=googlecloud,powershell,bash,obsidian,sklearn,ubuntu,windows" />
+</p>
 
 ---
 
@@ -53,8 +64,6 @@ I’m currently working at **DiDi Food**, where I:
 - Document and improve key operational processes to both maintain a stable workflow in a highly dynamic market and simplify operational work, enabling me to pursue new goals and internal projects.
 - Test new developments and optimize SQL queries for massive datasets, turning complex analyses into valuable insights that are often hard to uncover.
 
-This role has strengthened my technical and analytical foundation, while giving me hands-on experience in how large-scale systems evolve and operate in real business environments.
-
 ---
 
 ## 🤝 Let's stay in touch!
@@ -62,6 +71,5 @@ This role has strengthened my technical and analytical foundation, while giving 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-vg)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/VelascoSantiago)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagovg2023@gmail.com)
-
 
 Thanks for stopping by 🙌
