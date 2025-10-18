@@ -24,8 +24,6 @@ I have hands-on experience in:
 - 🗃️ SQL & Relational Databases: Designing and managing databases with ER modeling, views, triggers, and stored procedures. Experienced in query optimization for massive datasets.
 - 🌐 APIs & Data Integration: Leveraging REST APIs to automate processes and integrate systems, including hands-on experience with Google APIs.
 - 📈 Statistical Testing & Correlation Analysis: Applying statistical methods to validate hypotheses and uncover insights from real-world datasets.
-- 📝 Product & Project Coordination: Authoring Business Requirement Documents (BRDs), managing feature requests, and bridging the gap between operational needs and product development.
-- 💼 Cross-Functional Collaboration: Thriving in dynamic, fast-paced environments by collaborating with diverse stakeholders (Product, Ops, Marketing) and providing technical support across multiple teams.
 - 🧪 Version Control & Collaboration: Proficient in using Git and GitHub for code management and team collaboration.
 - 🎵 Signal Analysis & Processing: Analyzing and manipulating signals using MATLAB and Python libraries such as Spotipy to develop music-related projects and explore the intersection between data and sound.
 
@@ -60,9 +58,11 @@ To keep things organized:
 
 I’m currently working at **DiDi Food**, where I:
 
-- Automate workflows and integrate internal systems using tools like Python, Pandas, SQL, Google APIs, and Colab to streamline and connect data-driven processes.
-- Document and improve key operational processes to both maintain a stable workflow in a highly dynamic market and simplify operational work, enabling me to pursue new goals and internal projects.
-- Test new developments and optimize SQL queries for massive datasets, turning complex analyses into valuable insights that are often hard to uncover.
+- Automate workflows and integrate internal systems using Python, Pandas, SQL, Google APIs, and Colab to streamline and connect data-driven processes.
+- Document and improve key operational processes to maintain stability in a highly dynamic market while simplifying day-to-day operations.
+- Test new developments and optimize SQL queries for massive datasets, turning complex analyses into valuable insights.
+- Author Business Requirement Documents (BRDs), manage feature requests, and bridge the gap between operational needs and product development.
+- Thrive in dynamic, fast-paced environments by collaborating with cross-functional teams (Product, Ops, Marketing) and providing technical support across multiple areas.
 
 ---
 
