@@ -8,11 +8,13 @@
 
 ## 🧠 About Me
 
-Aspiring data professional and current Computer Engineering student at **UNAM (7th semester)**, passionate about applying theoretical knowledge to practical, real-world environments.
+Computer Engineering student at UNAM (8th semester) currently working toward becoming a data professional, with a strong interest in both Data Science and Data Engineering.
 
-I’m particularly interested in **data science**, **SQL/databases**, and the **human-technical interaction** that comes from building and supporting real systems.
+I’ve built most of my experience by working with real operational data, where things are rarely clean or straightforward. That’s what I enjoy the most—understanding how systems actually work, improving processes, and turning business needs into practical technical solutions.
 
-I enjoy solving problems, working collaboratively, and constantly seeking improvement in everything I do, which allows me to pursue new professional and personal goals.
+At the same time, I genuinely enjoy programming beyond work. I like building small, sometimes random projects out of curiosity, especially around music and hardware. Recently, that has included experimenting with **music-related** tools like **[PedalColab](https://github.com/VelascoSantiago/ap-pedalcolab)**, as well as working with microcontrollers such as **Raspberry Pi**.
+
+Overall, I’m someone who enjoys building and learning. 
 
 ---
 
@@ -20,7 +22,10 @@ I enjoy solving problems, working collaboratively, and constantly seeking improv
 
 I have hands-on experience in:
 
-- 📊 Data Analysis & Visualization: Using Python (Pandas, Matplotlib, Seaborn) to clean, process, and extract insights from data.
+- 📊 Data Analysis in Real Operations: Working with large-scale commercial and operational datasets to monitor performance and support decision-making.
+- 🗃️ SQL & Data Handling: Writing and optimizing complex queries, dealing with real-world data issues, and making data actually usable.
+- 🔄 Process Improvement & Automation: Designing and implementing workflows to reduce manual work and improve consistency.
+- 🔗 ETL & Data Workflows: Helping translate business requirements into structured data processes and integrations.
 - 🗃️ SQL & Relational Databases: Designing and managing databases with ER modeling, views, triggers, and stored procedures. Experienced in query optimization for massive datasets.
 - 🌐 APIs & Data Integration: Leveraging REST APIs to automate processes and integrate systems, including hands-on experience with Google APIs.
 - 📈 Statistical Testing & Correlation Analysis: Applying statistical methods to validate hypotheses and uncover insights from real-world datasets.
