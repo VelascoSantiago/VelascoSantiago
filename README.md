@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Santiago Velasco
+## Hi there, I'm Santiago Velasco
 
 🎓 **Computer Engineering Student @ UNAM**  
 📍 Mexico City, Mexico  
@@ -6,35 +6,33 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Computer Engineering student at UNAM (8th semester) currently working toward becoming a data professional, with a strong interest in both Data Science and Data Engineering.
+Computer Engineering student at UNAM (9th semester) with a strong focus on Data Engineering, Data Science, and Systems Architecture.
 
-I’ve built most of my experience by working with real operational data, where things are rarely clean or straightforward. That’s what I enjoy the most—understanding how systems actually work, improving processes, and turning business needs into practical technical solutions.
+My professional background is rooted in analyzing data and improving processes within highly dynamic markets. I thrive on understanding how operations actually work, designing robust data workflows, and acting as an architect to turn messy, real-world constraints into scalable technical solutions.
 
-At the same time, I genuinely enjoy programming beyond work. I like building small, sometimes random projects out of curiosity, especially around music and hardware. Recently, that has included experimenting with **music-related** tools like **[PedalColab](https://github.com/VelascoSantiago/ap-pedalcolab)**, as well as working with microcontrollers such as **Raspberry Pi**.
-
-Overall, I’m someone who enjoys building and learning. 
+Beyond the operational side, I am passionate about understanding and building systems from end to end—from database design and secure authentication to coordinating complex business logic in distributed architectures. To keep my curiosity sharp, I also spend my free time building personal hardware and software projects, usually experimenting with microcontrollers and music production tools.
 
 ---
 
-## 💻 What I’ve Worked On
+## What I’ve Worked On
 
-I have hands-on experience in:
+I have hands-on experience designing solutions and handling real-world data, specifically focusing on:
 
-- 📊 Data Analysis in Real Operations: Working with large-scale commercial and operational datasets to monitor performance and support decision-making.
-- 🗃️ SQL & Data Handling: Writing and optimizing complex queries, dealing with real-world data issues, and making data actually usable.
-- 🔄 Process Improvement & Automation: Designing and implementing workflows to reduce manual work and improve consistency.
-- 🔗 ETL & Data Workflows: Helping translate business requirements into structured data processes and integrations.
-- 🗃️ SQL & Relational Databases: Designing and managing databases with ER modeling, views, triggers, and stored procedures. Experienced in query optimization for massive datasets.
-- 🌐 APIs & Data Integration: Leveraging REST APIs to automate processes and integrate systems, including hands-on experience with Google APIs.
-- 📈 Statistical Testing & Correlation Analysis: Applying statistical methods to validate hypotheses and uncover insights from real-world datasets.
-- 🧪 Version Control & Collaboration: Proficient in using Git and GitHub for code management and team collaboration.
-- 🎵 Signal Analysis & Processing: Analyzing and manipulating signals using MATLAB and Python libraries such as Spotipy to develop music-related projects and explore the intersection between data and sound.
+- **Python & Workflow Automation:** Utilizing Python to drastically reduce friction in long, complex operational processes, ensuring the efficient handling of massive datasets and eliminating manual bottlenecks.
+
+- **Advanced SQL & Data Processing:** Writing high-level, optimized queries to clean, manipulate, and extract strategic business insights from large-scale databases, dealing directly with the messy reality of operational data.
+
+- **Business Intelligence & Dashboards:** Designing and managing dynamic dashboards as key BI tools, transforming complex data sets into clear, actionable visualizations that drive decision-making.
+
+- **API Integration & System Orchestration:** Leveraging REST APIs to seamlessly connect independent systems, automate continuous data pipelines, and coordinate comprehensive business workflows.
+
+- **Version Control & Engineering Best Practices:** Maintaining clean, collaborative, and scalable codebases using Git and GitHub for both professional environments and independent distributed projects.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align='center'>
   <img src="https://skillicons.dev/icons?i=py,c,sqlite,html,git,github,matlab,anaconda,vscode,visualstudio,discord,flask,linux" /><br>
@@ -43,14 +41,14 @@ I have hands-on experience in:
 
 ---
 
-## 📄 Resume
+## Resume
 
 - [English Resume (PDF)](SantiagoVelascoResume(ENG).pdf)
 - [Spanish Resume (PDF)](SantiagoVelascoResume(ESP).pdf)
 
 ---
 
-## 📁 Repo Naming Convention
+## Repo Naming Convention
 
 To keep things organized:
 
@@ -59,19 +57,18 @@ To keep things organized:
 
 ---
 
-## 🍊 Currently at DiDi
+## Currently at DiDi 🍊
 
-I’m currently working at **DiDi Food**, where I:
+I am currently working at **DiDi Food**, where my role focuses on designing systems and improving operations for a highly dynamic market. My day-to-day responsibilities include:
 
-- Automate workflows and integrate internal systems using Python, Pandas, SQL, Google APIs, and Colab to streamline and connect data-driven processes.
-- Document and improve key operational processes to maintain stability in a highly dynamic market while simplifying day-to-day operations.
-- Test new developments and optimize SQL queries for massive datasets, turning complex analyses into valuable insights.
-- Author Business Requirement Documents (BRDs), manage feature requests, and bridge the gap between operational needs and product development.
-- Thrive in dynamic, fast-paced environments by collaborating with cross-functional teams (Product, Ops, Marketing) and providing technical support across multiple areas.
+- **Architecting End-to-End Solutions:** Designing and implementing process improvements that drive operational efficiency across SME and CKA Acquisition, Engagement, and customer-facing campaigns.
+- **ETL & Data Workflows:** Designing data pipelines and ETL sketches to seamlessly integrate commercial business requirements into internal technical systems.
+- **Real-Time Operations & BI:** Developing automated dashboards and writing complex, optimized SQL queries to support real-time, data-driven decision-making.
+- **Performance Tracking:** Monitoring and analyzing the structural impact of system improvements to ensure strict alignment with core business KPIs.
 
 ---
 
-## 🤝 Find me elsewhere!
+## Find me elsewhere!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nacimosolos)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/velascosantiago)
