@@ -1,4 +1,4 @@
-## Hi there, I'm Santiago Velasco
+## Hi there, I'm Santiago!
 
 🎓 **Computer Engineering Student @ UNAM**  
 📍 Mexico City, Mexico  
