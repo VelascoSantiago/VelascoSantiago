@@ -43,7 +43,7 @@ I have hands-on experience designing solutions and handling real-world data, spe
 
 ## Resume
 
-- [English Resume (PDF)](SantiagoVelascoResume(ENG).pdf)
+- [English Resume (PDF)](SantiagoVelasco_RESUME.pdf)
 - [Spanish Resume (PDF)](SantiagoVelascoResume(ESP).pdf)
 
 ---
